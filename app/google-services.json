@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "315447527384",
+    "firebase_url": "https://springphotoapp.firebaseio.com",
+    "project_id": "springphotoapp",
+    "storage_bucket": "springphotoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315447527384:android:603dbdff8732d3cb",
+        "android_client_info": {
+          "package_name": "com.code_evolve_8472.springphotoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315447527384-10ivqj2mnqariokd0fj9fh1maite1405.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIo5zeviFA779sHqosu7D3ulul8aqLOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
